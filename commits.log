@@ -1,0 +1,98 @@
+commit e91ad59bc7716ed577c82af0dc9654fae9bad583
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 13:51:40 2023 -0400
+
+    Agregando 2 parrafos
+
+commit 735fe3f6da8817b053c7428e26f73d45a3f7fedd
+Merge: f67fabc 2fbfe66
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 09:05:53 2023 -0400
+
+    Resolviendo conflicto entre estaciones del año y fechas de inicio
+
+commit f67fabcb09f488a7a29a2fb2860f9e2be2f1adec
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 08:44:03 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 2fbfe66fffe2908f7339ee879c7c254886a3b2e3
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 08:44:03 2023 -0400
+
+    Agregando las estaciones del año
+
+commit 3d7661ce9f429ff1fe3a5e49a2d07347dcd53245
+Merge: 6c59666 94be65f
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 08:02:07 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 94be65f88eb83c066d949d73ebacd9356f8bc9ce
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 07:50:54 2023 -0400
+
+    Agregando el index.js al index.html
+
+commit 6c59666c5bcc18c05ae1e29caace05c1e20ad9de
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Sat Feb 4 07:45:05 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 97bf34c5d5edd8d0d43001ab61cb22c77fc24f01
+Merge: 8d083c6 2b2ba8c
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Fri Feb 3 09:06:08 2023 -0400
+
+    Merge branch 'js'
+
+commit 2b2ba8c0473895162db63ce7bd9b363034d71843
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Fri Feb 3 08:38:22 2023 -0400
+
+    Creando index.js
+
+commit 8d083c63a9351322d51f7b9ce12ea6e73bca1d2a
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Fri Feb 3 08:31:57 2023 -0400
+
+    Creando style.css
+
+commit d0d68a9e7023718718e18f7fe8f116271eea9160
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Fri Feb 3 08:24:43 2023 -0400
+
+    Creando index.html
+
+commit 0c6561ca28c797c7174df377b8dbe786cbd55e36
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Fri Feb 3 07:04:47 2023 -0400
+
+    Ignorando archivos .exe
+
+commit 905a7c0778cd8aa3db5de0f8bf1bf85b4f99d5b7
+Author: Francisco Santelys <114596663+seismicman@users.noreply.github.com>
+Date:   Fri Feb 3 05:27:01 2023 -0400
+
+    Creando licencia del repositorio
+
+commit de9c9389e1cdb98064025f8d2a9123d53e412ccb
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Thu Feb 2 16:34:27 2023 -0400
+
+    agregando más contenido al README
+
+commit 5cfb969f49c7652e56905bf83eb879198caedaf5
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Thu Feb 2 15:02:11 2023 -0400
+
+    Agregando contenido inicial al README
+
+commit 69cae3f77bf1b5d517f2cb4e650a26ea91c76741
+Author: Seismicman <franciscosantelys@gmail.com>
+Date:   Thu Feb 2 14:48:18 2023 -0400
+
+    Primer commit 😊
