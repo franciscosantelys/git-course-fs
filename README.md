@@ -2,6 +2,8 @@
 
 Hola soy Seismicman, aprendiendo sobre Git y Github.
 
-Agregando más contenido al _README.md_
+Quieres dominar el uso de _Git_?
 
-Este commit es para oficializar nuestra versión **1.0.0**.
+Mira este [enlace](https://jonmircha.com/git)
+
+![Flujo de Git](git-flow.png)
